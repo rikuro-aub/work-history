@@ -49,7 +49,6 @@
 |Docker|5ヶ月||
 |AWS|1ヶ月||
 |Slack|8ヶ月||
-|Zoom|8ヶ月||
 
 ## 言語
 
@@ -225,6 +224,5 @@
 |GitHub|[rikuro-aub](https://github.com/rikuro-aub)|
 
 ## その他特記事項
-- [Vue.jsのフレームワークを使用して自己紹介サイトを作成](https://rikuro-aub-portfolio.netlify.com)
 - [Ruby on Railsのフレームワークを使用してプログラミング学習動画に特化した動画掲載&共有サービスを作成](https://proitt.herokuapp.com/)
 - プライベートではMacを使用して開発を行っています
