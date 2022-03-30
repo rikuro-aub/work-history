@@ -113,7 +113,7 @@
 - AWS
 - Nginx
 
-#### ◆言語/DB
+#### ◆言語/フレームワーク/DB
 - PHP
 - Laravel
 - JavaScript
