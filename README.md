@@ -99,8 +99,8 @@
   - 不具合修正
 - 本番リリース作業
 - AWS IAMの管理
-- Githubのアカウントやアクセス権限の管理
-- GithubからSlackへ各種通知が流れるように連携
+- GitHubのアカウントやアクセス権限の管理
+- GitHubからSlackへ各種通知が流れるように連携
 - BacklogからSlackへ各種通知が流れるように連携
 
 #### 4). その他開発業務
@@ -126,8 +126,8 @@
 
 ##### ◆その他ツール
 - Git
-- Github
-- Gihub Actions
+- GitHub
+- GiHub Actions
 - Docker
 - Slack
 - Backlog
