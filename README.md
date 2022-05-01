@@ -69,8 +69,8 @@
 
 #### 1). SPAの開発
 - Dockerで開発環境の構築
-   - php-fpm, nginx, mysql, redis, minio, mailhogの構成
-   - minio, mailhogの繋ぎこみを担当
+  - PHP-FPM, Nginx, MySQL, Redis, MinIO, MailHogの構成
+  - MinIO, MailHogの繋ぎこみを担当
 - Amazon S3でファイルアップロード/ダウンロード機能の作成
 - Material Design Iconsを用いたUIの修正
 - 特定条件でボタンの表示/非表示修正
