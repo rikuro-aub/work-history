@@ -409,9 +409,8 @@
 |key|value|
 |---|-----|
 |Qiita|[@3no3](https://qiita.com/3no3_tw)|
-|Twitter|[@3no3](https://twitter.com/3no3_tw)|
+|X|[@3no3](https://twitter.com/3no3_tw)|
 |GitHub|[rikuro-aub](https://github.com/rikuro-aub)|
-|tech blog|[sanno it blog](https://sanno.work/)|
 
 ## 保有資格
 - 基本情報処理技術者
